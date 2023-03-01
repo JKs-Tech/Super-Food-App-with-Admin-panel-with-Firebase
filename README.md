@@ -1,4 +1,4 @@
-# super_food
+# Super Food App
 
 A new Flutter project.
 
