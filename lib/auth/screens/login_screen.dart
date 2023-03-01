@@ -18,7 +18,7 @@ class _LogiScreenState extends State<LogiScreen> {
         width: double.infinity,
         height: double.infinity,
         decoration: const BoxDecoration(
-            color: Color.fromARGB(255, 249, 246, 241),
+            color: Color.fromRGBO(230, 232, 238, 20),
             image: DecorationImage(
                 image: AssetImage(
               "assets/home_food.jpeg",
