@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580355720583",
+    "project_id": "super-food-1384f",
+    "storage_bucket": "super-food-1384f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580355720583:android:7c2ae6df437e8073f77f22",
+        "android_client_info": {
+          "package_name": "com.mysuper.food.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580355720583-bfhu4us017k9eh2umoul2aircb8q74kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysuper.food.com",
+            "certificate_hash": "8857f991f5b6392b2822d223f312ce56fc305aae"
+          }
+        },
+        {
+          "client_id": "580355720583-9i9s4jpd45oso6nuo169fm0vk4s78sqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATs7U52IEeCWB3IMf2CIg2PTvCqENWGcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580355720583-9i9s4jpd45oso6nuo169fm0vk4s78sqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
